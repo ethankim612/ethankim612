@@ -1,17 +1,15 @@
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" width="100%" alt="Hi, I'm Ethan (Siwoo Kim). Student developer and researcher at CheongShim International Academy, working at the intersection of statistics, data science, and software.">
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" width="100%" alt="Hi, I'm Ethan (Siwoo Kim). Student developer and researcher at CheongShim International Academy, working at the intersection of statistics, data science, and software.">
-</picture>
-
-<br>
-
-<a href="https://www.linkedin.com/in/ethan-kim-bb5689387"><img src="https://img.shields.io/badge/LinkedIn-1F3A5F?style=flat-square" alt="LinkedIn"></a>
-<a href="https://csialife.com"><img src="https://img.shields.io/badge/csialife.com-1F3A5F?style=flat-square&logo=googlechrome&logoColor=white" alt="csialife.com"></a>
-<a href="mailto:sw.ethankim@gmail.com"><img src="https://img.shields.io/badge/sw.ethankim@gmail.com-1F3A5F?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ethan-kim-bb5689387"><img src="https://img.shields.io/badge/LinkedIn-1F3A5F?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAySDMuNTVBMS41NSAxLjU1IDAgMCAwIDIgMy41NXYxNi45QzIgMjEuMyAyLjcgMjIgMy41NSAyMmgxNi45Yy44NSAwIDEuNTUtLjcgMS41NS0xLjU1VjMuNTVDMjIgMi43IDIxLjMgMiAyMC40NSAyek04LjEgMTlINS4yVjkuNWgyLjlWMTl6TTYuNjUgOC4yYTEuNyAxLjcgMCAxIDEgMC0zLjQgMS43IDEuNyAwIDAgMSAwIDMuNHpNMTkgMTloLTIuOXYtNC42YzAtMS4xIDAtMi41LTEuNTUtMi41cy0xLjggMS4yLTEuOCAyLjRWMTloLTIuOVY5LjVoMi44djEuM2guMDRjLjQtLjc0IDEuMzUtMS41IDIuOC0xLjUgMyAwIDMuNSAxLjk1IDMuNSA0LjVWMTl6Ii8+PC9zdmc+" alt="LinkedIn"></a>
+  <a href="https://csialife.com"><img src="https://img.shields.io/badge/csialife.com-1F3A5F?style=flat-square&logo=googlechrome&logoColor=white" alt="csialife.com"></a>
+  <a href="mailto:sw.ethankim@gmail.com"><img src="https://img.shields.io/badge/sw.ethankim@gmail.com-1F3A5F?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ## About
 
