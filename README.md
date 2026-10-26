@@ -20,61 +20,48 @@ I'm interested in how data can replace guesswork in everyday decisions, so that 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### CSIALife
-<sub><b>LEADER & DEVELOPER</b></sub>
-
-Rebuilt the study hall request logic for a 600+ user schoolwide platform after a structural bug left ghost records, removing teachers' daily collection and spreadsheet entry. Maintain seminar room, lab, and meal features.
-
+<h3><a href="https://csialife.com">CSIALife</a><br><sub>LEADER &amp; DEVELOPER</sub></h3>
+<p>Rebuilt the study hall request logic of a 600+ user school platform after a structural bug left ghost records, ending teachers' daily manual collection and spreadsheet entry.</p>
+<p>
 <img src="https://img.shields.io/badge/-Django-0C4B33?style=flat-square&logo=django&logoColor=white" alt="Django">
 <img src="https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery">
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/-Google_Sheets_API-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets API">
-
-[csialife.com](https://csialife.com)
-
+</p>
 </td>
 <td width="50%" valign="top">
-
-### RESQON
-<sub><b>CO-FOUNDER & CTO</b></sub>
-
-Led integration of CNN-based human detection (97.7% accuracy), real-time pathfinding, and obstacle avoidance in a fire-rescue drone prototype. Gold Medal at SAGE World Cup 2025.
-
+<h3><a href="https://github.com/ethankim612/projectDrone">RESQON</a><br><sub>CO-FOUNDER &amp; CTO</sub></h3>
+<p>Led integration of CNN-based human detection (97.7% accuracy), real-time pathfinding, and obstacle avoidance in a fire-rescue drone prototype.</p>
+<p>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
 <img src="https://img.shields.io/badge/-YOLO-042AFF?style=flat-square&logo=yolo&logoColor=white" alt="YOLO">
 <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
-
-[Repository](https://github.com/ethankim612/projectDrone)
-
+</p>
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td width="50%" valign="top">
-
-### Hugrow
-<sub><b>DEVELOPMENT LEAD</b></sub>
-
-Led development of a family wellness app with daily check-ins, assessments, and shared goals. 1st Place and Ministry of Education Award at e-icon World Contest 2026.
-
+<h3>Hugrow<br><sub>DEVELOPMENT LEAD</sub></h3>
+<p>Led development of a family wellness app with daily check-ins, assessments, and shared goals. Won 1st Place at e-icon World Contest 2026.</p>
+<p>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React">
 <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
 <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-
+</p>
 </td>
 <td width="50%" valign="top">
-
-### School Sites
-<sub><b>DEVELOPER</b></sub>
-
-Built Django sites for student groups: an alumni Q&A board, the varsity athletics site, *The Quill* student newspaper, and the rock band community.
-
+<h3>School Sites<br><sub>DEVELOPER</sub></h3>
+<p>Built Django sites for student groups: an alumni Q&amp;A board, the varsity athletics site, <i>The Quill</i> newspaper, and the rock band community.</p>
+<p>
 <img src="https://img.shields.io/badge/-Django-0C4B33?style=flat-square&logo=django&logoColor=white" alt="Django">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-
+</p>
 </td>
 </tr>
 </table>
