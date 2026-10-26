@@ -1,8 +1,8 @@
+<h1 align="center">Hi, I'm Ethan (Siwoo Kim)</h1>
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/title-dark.svg">
-    <img src="assets/title-light.svg" width="100%" alt="Hi, I'm Ethan (Siwoo Kim). Student developer and researcher at CheongShim International Academy, working at the intersection of statistics, data science, and software.">
-  </picture>
+  Student developer and researcher at CheongShim International Academy,<br>
+  working at the intersection of statistics, data science, and software.
 </p>
 
 <p align="center">
