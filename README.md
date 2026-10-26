@@ -20,7 +20,7 @@ I'm interested in how data can replace guesswork in everyday decisions, so that 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://csialife.com">CSIALife</a><br><sub>LEADER &amp; DEVELOPER</sub></h3>
+<h3><a href="https://github.com/ethankim612/csialife-showcase">CSIALife</a><br><sub>LEADER &amp; DEVELOPER · <a href="https://csialife.com">CSIALIFE.COM</a></sub></h3>
 <p>Rebuilt the study hall request logic of a 600+ user school platform after a structural bug left ghost records, ending teachers' daily manual collection and spreadsheet entry.</p>
 <p>
 <img src="https://img.shields.io/badge/-Django-0C4B33?style=flat-square&logo=django&logoColor=white" alt="Django">
@@ -45,7 +45,7 @@ I'm interested in how data can replace guesswork in everyday decisions, so that 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>Hugrow<br><sub>DEVELOPMENT LEAD</sub></h3>
+<h3><a href="https://github.com/ethankim612/hugrow-showcase">Hugrow</a><br><sub>DEVELOPMENT LEAD</sub></h3>
 <p>Led development of a family wellness app with daily check-ins, assessments, and shared goals. Won 1st Place at e-icon World Contest 2026.</p>
 <p>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React">
@@ -55,7 +55,7 @@ I'm interested in how data can replace guesswork in everyday decisions, so that 
 </p>
 </td>
 <td width="50%" valign="top">
-<h3>School Sites<br><sub>DEVELOPER</sub></h3>
+<h3><a href="https://github.com/ethankim612/csia-school-sites">School Sites</a><br><sub>DEVELOPER</sub></h3>
 <p>Built Django sites for student groups: an alumni Q&amp;A board, the varsity athletics site, <i>The Quill</i> newspaper, and the rock band community.</p>
 <p>
 <img src="https://img.shields.io/badge/-Django-0C4B33?style=flat-square&logo=django&logoColor=white" alt="Django">
