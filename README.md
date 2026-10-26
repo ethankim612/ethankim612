@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner-light.svg" width="100%" alt="Hi, I'm Ethan (Siwoo Kim). Student developer and researcher at CheongShim International Academy, working at the intersection of statistics, data science, and software.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img src="assets/header-light.svg" width="100%" alt="Hi, I'm Ethan (Siwoo Kim). Student developer and researcher at CheongShim International Academy, working at the intersection of statistics, data science, and software.">
   </picture>
 </p>
 
