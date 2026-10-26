@@ -30,7 +30,7 @@ I'm interested in how data can replace guesswork in everyday decisions, so that 
 </p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/ethankim612/projectDrone">RESQON</a><br><sub>CO-FOUNDER &amp; CTO</sub></h3>
+<h3><a href="https://github.com/ethankim612/resqon-drone">RESQON</a><br><sub>CO-FOUNDER &amp; CTO</sub></h3>
 <p>Led integration of CNN-based human detection (97.7% accuracy), real-time pathfinding, and obstacle avoidance in a fire-rescue drone prototype.</p>
 <p>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -74,7 +74,7 @@ As Founder & Lead Engineer of CSIA R&D, I run projects that use real school and 
 |:--|:--|
 | **Demand for new school services** | Modeled seminar room usage and site promotion engagement for new CSIALife services and applied off-policy evaluation. School research Bronze Award. |
 | **Korean grammatical change (NLP)** | POS-tagged 1,391 sentences from 4 Korean literary works with Python and KoNLPy, compared shared and text-specific particles and endings in code, and wrote a paper. |
-| **Monte Carlo and real options** | Simulated binomial revenue paths for a small business to estimate survival probability and the optimal exit month. [Repository](https://github.com/ethankim612/PricingModel) |
+| **Monte Carlo and real options** | Simulated binomial revenue paths for a small business to estimate survival probability and the optimal exit month. [Repository](https://github.com/ethankim612/monte-carlo-real-options) |
 | **Gene expression time series** | Applied FFT to expression data for about 8,000 genes. |
 | **Sorting algorithm performance** | Measured bubble, quick, and merge sort across input sizes and initial orderings and compared them statistically. |
 | **Housing prices** | Cleaned King County sales data, engineered features, and compared linear regression with a random forest. |
